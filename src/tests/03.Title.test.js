@@ -10,9 +10,8 @@ describe('3 - Crie um componente chamado `Title`', () => {
   });
 
   it('Será validado se o componente `<Title />` contém uma tag `h2`', () => {
-    render(<Title headline={headlineText} />);
+    render(<Title headline= {headlineText} />);
     const headline = screen.getByRole('heading', { level: 2 });
-    
     expect(headline).toBeInTheDocument();
   });
 
