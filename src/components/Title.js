@@ -1,10 +1,9 @@
-import React from "react";
+import React from 'react';
+
 class title extends React.Component {
-  render() {
-    return (
-        <h2>
-            
-        </h2>
-    )
-  }
+//   render() {
+// return
+//   }
 }
+
+export default title;
