@@ -5,9 +5,9 @@ class Header extends React.Component {
   render() {
     return (
     //   <>
-      <Header>
+      <header>
         <h1>Sistema Solar</h1>
-      </Header>
+      </header>
     // </>
     );
   }
