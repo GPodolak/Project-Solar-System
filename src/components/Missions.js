@@ -1,7 +1,8 @@
 import React from 'react';
 import Title from './Title';
+import Missions from '../data/missions';
 
-class Missions extends React.Component {
+class missions extends React.Component {
   render() {
     return (
       <div data-testid="missions">
@@ -11,4 +12,4 @@ class Missions extends React.Component {
   }
 }
 
-export default Missions;
+export default missions;
