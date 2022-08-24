@@ -1,0 +1,18 @@
+.MainTitle{
+    background: url(/imagens\ css/3f2X.gif);
+    color: snow;
+    font-size: 0,1cm;
+    border: none;
+    height: 300px;
+    position: relative;
+    text-align: center;
+    font-family: Andale Mono, monospace, ;
+    background-size: 1145px;
+    background-position-x: center;
+    background-position-y: center;
+  }
+
+  .SubTitle{
+    font-size: 0,1cm;
+    background-image: url(/imagens\ css/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg);
+  }
